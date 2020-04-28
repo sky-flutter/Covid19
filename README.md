@@ -7,8 +7,8 @@ Getting UI reference from https://ui8.net/jinu/products/covid-19-ui-kit
 
 | Plugin         | README                                          |
 | -------------- | ----------------------------------------------- |
-| charts_flutter | [https://pub.dev/packages/charts_flutter][pldb] |
-| http           | [https://pub.dev/packages/http][pldb]           |
+| charts_flutter | [https://pub.dev/packages/charts_flutter] |
+| http           | [https://pub.dev/packages/http]           |
 
 
 ### Screenshot
