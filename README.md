@@ -14,7 +14,7 @@ Getting UI reference from https://ui8.net/jinu/products/covid-19-ui-kit
 ### Screenshot
 
 <div>
-  <kbd><img src="https://github.com/sky-flutter/Covid19/tree/master/screenshot/1.png" height="500" width="260"/></kbd>
+  <kbd><img src="https://raw.githubusercontent.com/sky-flutter/Covid19/master/screenshot/1.png" height="500" width="260"/></kbd>
   <kbd><img src="https://github.com/sky-flutter/Covid19/tree/master/screenshot/2.png" height="500" width="260"/></kbd>
   <kbd><img src="https://github.com/sky-flutter/Covid19/tree/master/screenshot/3.png" height="500" width="260"/></kbd>
   <kbd><img src="https://github.com/sky-flutter/Covid19/tree/master/screenshot/4.png" height="500" width="260"/></kbd>
