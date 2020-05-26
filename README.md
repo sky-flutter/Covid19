@@ -10,7 +10,10 @@ Getting UI reference from https://ui8.net/jinu/products/covid-19-ui-kit
 | charts_flutter | [https://pub.dev/packages/charts_flutter] |
 | http           | [https://pub.dev/packages/http]           |
 
-
+### Download APK
+Covid19-arm64-v8a-release.apk : https://bit.ly/2LXGna6 <br/>
+Covid19-armeabi-v7a-release.apk : https://bit.ly/3c50Bt8 <br/>
+Covid19-x86_64-release.apk : https://bit.ly/2LZtPzc <br/>
 ### Screenshot
 
 <div>
